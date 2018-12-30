@@ -1,0 +1,1 @@
+mvc패턴의 학원홈페이지에 포함되는 WebContent영역
