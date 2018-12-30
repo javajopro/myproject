@@ -1,1 +1,1 @@
-ddddÃ¹¹øÂ°
+System.out.println("hello world");
