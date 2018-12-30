@@ -1,0 +1,55 @@
+@charset "UTF-8";
+section#memberList-container{
+	text-align: center;
+}
+
+section#memberList-container table#tbl-member{
+	width: 100%;
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+table#tbl-member th, table#tbl-member td {
+	border: 1px solid gray;
+	padding: 10px;
+}
+
+
+/*검색*/
+div#search-container {
+	margin: 0 0 10px 0;
+	padding: 3px;
+	background-color: gray;
+}
+div#search-memberId {
+	display: inline-block;
+}
+div#search-memberName, div#search-gender {
+	display: none;
+}
+
+
+/*페이지바*/
+div#pageBar{
+	margin-top: 10px;
+	text-align: center;
+	background-color: rgba(0, 188, 212, 0.3);
+}
+div#pageBar span.cPage{
+	color: #06f;
+	margin-right: 10px;
+}
+
+div#pageBar a{
+	margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
